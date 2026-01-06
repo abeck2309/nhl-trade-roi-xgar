@@ -24,7 +24,7 @@ This analysis evaluates NHL trades using a consistent value framework built on s
 
 Trades are also evaluated across multiple time windows (1-year, 3-year, to-date) and contextualized using cap efficiency (xGAR relative to cap hit). Goalie-only trades are excluded due to the use of skater-based metrics.
 
-## Methodology
+## Tool Aspects
 
 ### Player Value
 - Skater value measured using xGAR (Evolving Hockey)
