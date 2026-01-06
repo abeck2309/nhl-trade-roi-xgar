@@ -1,6 +1,7 @@
 # NHL Trade ROI Tracker (xGAR-Based)
 
 This project evaluates the return on investment (ROI) of major NHL trades using a combination of realized on-ice value and expected future value.
+https://www.linkedin.com/pulse/rethinking-nhl-trades-data-driven-return-investment-roi-andrew-beck-7jt8c
 
 ## Overview
 Player value is measured using xGAR (expected Goals Above Replacement) for skaters. Trades are evaluated from each team’s perspective by comparing:
