@@ -1,0 +1,116 @@
+﻿trade_id,from_team,to_team,asset_type,asset_name,asset_detail,acq_date,end_date,conditional_flag,condition_notes,condition_validation
+20211104_BUF_VGK,BUF,VGK,PLAYER,Jack Eichel,,2021-11-04,,N,,
+20211104_BUF_VGK,VGK,BUF,PLAYER,Alex Tuch,,2021-11-04,,N,,
+20211104_BUF_VGK,VGK,BUF,PLAYER,Peyton Krebs,,2021-11-04,,N,,
+20211104_BUF_VGK,VGK,BUF,PICK,2022 1st Round Pick,Used on Noah Östlund,2021-11-04,2022-07-07,N,,CONVEYED
+20211104_BUF_VGK,DRAFT,BUF,PLAYER,Noah Östlund,Drafted with 2022 1st,2022-07-07,,N,,
+20211104_BUF_VGK,VGK,BUF,PICK,2023 2nd Round Pick,,2021-11-04,,N,,DRAFT_OCCURRED_NEEDS_USED_ON_PLAYER_MAPPING
+20211104_BUF_VGK,DRAFT,MIN,PROSPECT,Riley Heidt,Drafted with 2023 2nd Round Pick,2023-06-28,,0,,
+20211104_BUF_VGK,BUF,VGK,PICK,2023 3rd Round Pick,Used on Mathieu Cataford,2021-11-04,2023-06-28,N,,CONVEYED
+20211104_BUF_VGK,DRAFT,VGK,PROSPECT,Mathieu Cataford,Drafted with 2023 3rd Round Pick,2023-06-28,,N,,
+20220722_CGY_FLA,CGY,FLA,PLAYER,Matthew Tkachuk,,2022-07-22,,N,,
+20220722_CGY_FLA,FLA,CGY,PLAYER,Jonathan Huberdeau,,2022-07-22,,N,,
+20220722_CGY_FLA,FLA,CGY,PLAYER,MacKenzie Weegar,,2022-07-22,,N,,
+20220722_CGY_FLA,FLA,CGY,PLAYER,Cole Schwindt,,2022-07-22,,N,,
+20220722_CGY_FLA,FLA,CGY,PICK,2025 1st Round Pick,Conditional,2022-07-22,,Y,Conveys to CGY only if (a) FLA 2024 1st not top-10 and goes to PHI AND (b) FLA 2025 1st not top-10.,CONDITION_MET__CONVEYED_AND_USED
+20220722_CGY_FLA,DRAFT,CGY,PROSPECT,Cullen Potter,Drafted with 2025 1st Round Pick,2025-06-27,,0,,
+20220722_CGY_FLA,CGY,FLA,PICK,2025 4th Round Pick,Conditional (only if CGY receives 2025 1st),2022-07-22,,Y,Transfers to FLA if CGY receives the conditional 2025 1st from FLA.,CONDITION_MET__CONVEYED_AND_USED
+20220722_CGY_FLA,DRAFT,FLA,PROSPECT,Mads Kongsbak Klyvo,Drafted with 2025 4th Round Pick,2025-06-28,,0,,
+20251213_VAN_MIN,VAN,MIN,PLAYER,Quinn Hughes,,2025-12-13,,N,,
+20251213_VAN_MIN,MIN,VAN,PLAYER,Marco Rossi,,2025-12-13,,N,,
+20251213_VAN_MIN,MIN,VAN,PLAYER,Liam Ohgren,,2025-12-13,,N,,
+20251213_VAN_MIN,MIN,VAN,PLAYER,Zeev Buium,(listed as defenseman in notes),2025-12-13,,N,,
+20251213_VAN_MIN,MIN,VAN,PICK,2026 1st Round Pick,,2025-12-13,,N,,PENDING_FUTURE
+20250308_CAR_DAL,CAR,DAL,PLAYER,Mikko Rantanen,,2025-03-08,,N,,
+20250308_CAR_DAL,DAL,CAR,PLAYER,Logan Stankoven,,2025-03-08,,N,,
+20250308_CAR_DAL,DAL,CAR,PICK,2026 1st Round Pick,Top-10 protected,2025-03-08,,Y,"If top-10, does not convey; converts to 2027 1st (unprotected).",PENDING_FUTURE
+20250308_CAR_DAL,DAL,CAR,PICK,2027 1st Round Pick,Unprotected (conversion),2025-03-08,,Y,Only conveys if 2026 1st is top-10 protected and does not convey.,PENDING_FUTURE
+20250308_CAR_DAL,DAL,CAR,PICK,2028 1st Round Pick,Top-10 protected,2025-03-08,,Y,"If top-10, does not convey; converts to 2029 1st (unprotected).",PENDING_FUTURE
+20250308_CAR_DAL,DAL,CAR,PICK,2029 1st Round Pick,Unprotected (conversion),2025-03-08,,Y,Only conveys if 2028 1st is top-10 protected and does not convey.,PENDING_FUTURE
+20250201_VAN_NYR,VAN,NYR,PLAYER,J.T. Miller,,2025-02-01,,N,,
+20250201_VAN_NYR,NYR,VAN,PICK,2025 1st Round Pick,Top-13 protected,2025-02-01,,Y,"If pick is top-13, does not convey; replaced by 2026 1st (unprotected) that VAN must transfer to PIT.",CONDITION_MET__CONVEYED_AND_USED
+20250201_VAN_NYR,DRAFT,PHI,PROSPECT,Jack Nesbitt,Drafted with 2025 1st Round Pick,2025-06-27,,0,,
+20250201_VAN_NYR,NYR,VAN,PICK,2026 1st Round Pick,Unprotected (replacement),2025-02-01,,Y,Conveys to VAN if 2025 1st is top-13 and does not convey; VAN transfers this pick to PIT.,PENDING_FUTURE
+20250201_VAN_NYR,VAN,PIT,PICK,2026 1st Round Pick,Transfer obligation,2025-02-01,,Y,"If NYR 2025 1st is top-13, VAN receives NYR 2026 1st then transfers to PIT (per note).",PENDING_FUTURE
+20250303_CHI_FLA,CHI,FLA,PLAYER,Seth Jones,,2025-03-03,,N,,
+20250303_CHI_FLA,CHI,FLA,RETAINED,Salary retention,26% of Jones salary retained by CHI,2025-03-03,,N,,
+20250303_CHI_FLA,FLA,CHI,PLAYER,Spencer Knight,,2025-03-03,,N,,
+20250303_CHI_FLA,CHI,FLA,PICK,2026 4th Round Pick,,2025-03-03,,N,,PENDING_FUTURE
+20250303_CHI_FLA,FLA,CHI,PICK,2026 1st Round Pick,Conditional; conveys to 2027 if FLA lacks 2026 1st,2025-03-03,,Y,"If Florida does not own its 2026 1st, the conditional 1st conveys in 2027.",PENDING_FUTURE
+20250702_TOR_VGK,TOR,VGK,PLAYER,Mitch Marner,,2025-07-02,,N,,
+20250702_TOR_VGK,VGK,TOR,PLAYER,Nicolas Roy,,2025-07-02,,N,,
+20250307_BOS_FLA,BOS,FLA,PLAYER,Brad Marchand,,2025-03-07,,N,,
+20250307_BOS_FLA,BOS,FLA,RETAINED,Salary retention,50% retained by BOS,2025-03-07,,N,,
+20250307_BOS_FLA,FLA,BOS,PICK,2027 2nd Round Pick,Conditional upgrade,2025-03-07,,Y,Becomes 2027 or 2028 1st if FLA wins two rounds in 2025 playoffs and Marchand plays >=50% playoff games.,CONDITION_MET__UPGRADED_TO_1ST_(YEAR_TBD)
+20250307_BOS_FLA,FLA,BOS,PICK,2027 1st Round Pick,Conditional (upgrade path),2025-03-07,,Y,Only if conditions met; year may be 2027 or 2028 per note.,CONDITION_MET__1ST_ROUND_PICK_DUE_(YEAR_TBD)
+20250307_BOS_FLA,FLA,BOS,PICK,2028 1st Round Pick,Conditional (upgrade path),2025-03-07,,Y,Only if conditions met; year may be 2027 or 2028 per note.,CONDITION_MET__1ST_ROUND_PICK_DUE_(YEAR_TBD)
+20230226_SJS_NJD,SJS,NJD,PLAYER,Timo Meier,,2023-02-26,,N,,
+20230226_SJS_NJD,NJD,SJS,PICK,2023 1st Round Pick,Top-2 protected | Used on Quentin Musty,2023-02-26,2023-06-28,Y,"If top-2 in 2023, converts to unprotected 2024 1st.",CONVEYED_AND_USED
+20230226_SJS_NJD,DRAFT,SJS,PROSPECT,Quentin Musty,Drafted with 2023 1st Round Pick,2023-06-28,,N,,
+20230226_SJS_NJD,NJD,SJS,PICK,2024 1st Round Pick,Unprotected (if 2023 1st protected),2023-02-26,,Y,Conveys only if 2023 1st is top-2 and does not convey.,CONDITION_NOT_MET__NOT_CONVEYED
+20230226_SJS_NJD,DRAFT,NJD,PROSPECT,Anton Silayev,Drafted with 2024 1st Round Pick,2024-06-28,,0,,
+20230226_SJS_NJD,NJD,SJS,PICK,2024 1st Round Pick,Conditional (ECF + Meier games); top-10 protected at NJD option,2023-02-26,,Y,"If NJD reaches 2023 Conference Final and Meier plays >=50% games: conveys as 2024 1st (top-10 protected at NJD option), else 2024 2nd.",CONDITION_NOT_MET__NOT_CONVEYED
+20230226_SJS_NJD,DRAFT,NJD,PROSPECT,Anton Silayev,Drafted with 2024 1st Round Pick,2024-06-28,,0,,
+20230226_SJS_NJD,NJD,SJS,PICK,2025 1st Round Pick,Unprotected (if conditional 2024 1st protected),2023-02-26,,Y,"If NJD opts to protect conditional 2024 1st in top-10, pick becomes unprotected 2025 1st.",CONDITION_NOT_MET__NOT_CONVEYED
+20230226_SJS_NJD,DRAFT,CGY,PROSPECT,Cole Reschny,Drafted with 2025 1st Round Pick,2025-06-27,,0,,
+20230226_SJS_NJD,NJD,SJS,PICK,2024 2nd Round Pick,Conditional (if ECF/games condition not met),2023-02-26,,Y,Conveys if NJD does not reach 2023 Conference Final or Meier plays <50% games.,CONDITION_MET__CONVEYED_AND_USED
+20230226_SJS_NJD,DRAFT,BUF,PROSPECT,Adam Kleber,Drafted with 2024 2nd Round Pick,2024-06-29,,0,,
+20230130_VAN_NYI,VAN,NYI,PLAYER,Bo Horvat,,2023-01-30,,N,,
+20230130_VAN_NYI,NYI,VAN,PICK,2023 1st Round Pick,Top-12 protected | Used on Axel Sandin Pellikka,2023-01-30,2023-06-28,Y,"If top-12, does not convey; replaced by 2024 1st.",CONVEYED_AND_USED
+20230130_VAN_NYI,DRAFT,DET,PROSPECT,Axel Sandin Pellikka,Drafted with 2023 1st Round Pick,2023-06-28,,N,,
+20230130_VAN_NYI,NYI,VAN,PICK,2024 1st Round Pick,Replacement if 2023 protected,2023-01-30,,Y,Conveys only if 2023 1st is top-12 and does not convey.,CONDITION_NOT_TRIGGERED__NOT_CONVEYED
+20230130_VAN_NYI,DRAFT,NYI,PROSPECT,Cole Eiserman,Drafted with 2024 1st Round Pick,2024-06-28,,0,,
+20220707_CHI_OTT,CHI,OTT,PLAYER,Alex DeBrincat,,2022-07-07,,N,,
+20220707_CHI_OTT,OTT,CHI,PICK,2024 1st Round Pick,Choice between BOS or DET; option logic,2022-07-07,,Y,"DET chooses BOS or DET 2024 1st. If BOS pick top-10, BOS may send 2025 1st and DET chooses between BOS or DET picks.",CONDITION_MET__CONVEYED_AND_USED_(BOS_2024_1ST)
+20220707_CHI_OTT,DRAFT,BOS,PROSPECT,Dean Letourneau,Drafted with 2024 1st Round Pick,2024-06-28,,0,,
+20220707_CHI_OTT,OTT,CHI,PICK,2025 1st Round Pick,Potential replacement from BOS if BOS 2024 is top-10,2022-07-07,,Y,Only if BOS pick is top-10 and BOS opts to send 2025 1st instead.,CONDITION_NOT_MET__NOT_CONVEYED
+20220707_CHI_OTT,DRAFT,BOS,PROSPECT,James Hagens,Drafted with 2025 1st Round Pick,2025-06-27,,0,,
+20230209_STL_NYR,STL,NYR,PLAYER,Vladimir Tarasenko,,2023-02-09,,N,,
+20230209_STL_NYR,STL,NYR,RETAINED,Salary retention,50% retained by STL,2023-02-09,,N,,
+20230209_STL_NYR,NYR,STL,PICK,2023 1st Round Pick,Lower of DAL and NYR picks | Used on Theo Lindstein,2023-02-09,2023-06-28,Y,Pick conveyed is the lower of DAL and NYR 2023 1sts.,CONVEYED_AND_USED
+20230209_STL_NYR,DRAFT,STL,PROSPECT,Theo Lindstein,Drafted with 2023 1st Round Pick,2023-06-28,,N,,
+20230209_STL_NYR,NYR,STL,PICK,2024 4th Round Pick,Becomes 2024 3rd if NYR makes playoffs,2023-02-09,,Y,Upgrade to 3rd if NYR makes playoffs.,CONDITION_MET__UPGRADED_TO_3RD_(REPLACED_BY_2024_3RD)
+20230209_STL_NYR,DRAFT,NYR,PROSPECT,Nathan Aspinall,Drafted with 2024 4th Round Pick,2024-06-29,,0,,
+20230209_STL_NYR,NYR,STL,PICK,2024 3rd Round Pick,Upgrade path | Used on Adam Jecho,2023-02-09,2024-06-28,Y,Only if NYR makes playoffs; otherwise remains 4th.,CONVEYED_AND_USED
+20230209_STL_NYR,DRAFT,STL,PROSPECT,Adam Jecho,Drafted with 2024 3rd Round Pick,2024-06-28,,N,,
+20230301_ARI_OTT,ARI,OTT,PLAYER,Jakob Chychrun,,2023-03-01,,N,,
+20230301_ARI_OTT,OTT,ARI,PICK,2023 1st Round Pick,Top-5 protected | Used on Daniil But,2023-03-01,2023-06-28,Y,"If top-5 in 2023, converts to unprotected 2024 1st.",CONVEYED_AND_USED
+20230301_ARI_OTT,DRAFT,UTA,PROSPECT,Daniil But,Drafted with 2023 1st Round Pick,2023-06-28,,N,,
+20230301_ARI_OTT,OTT,ARI,PICK,2024 1st Round Pick,Unprotected (if 2023 protected),2023-03-01,,Y,Only if 2023 1st is top-5 and does not convey.,CONDITION_NOT_MET__NOT_CONVEYED
+20230301_ARI_OTT,DRAFT,OTT,PROSPECT,Carter Yakemchuk,Drafted with 2024 1st Round Pick,2024-06-28,,0,,
+20230301_ARI_OTT,OTT,ARI,PICK,2023 2nd Round Pick,Conditional upgrade,2023-03-01,,Y,Becomes 2024 1st (top-10 protected) if OTT reaches 2023 ECF; otherwise remains a 2nd.,CONDITION_MET__CONVEYED_AND_USED
+20230301_ARI_OTT,DRAFT,CHI,PROSPECT,Roman Kantserov,Drafted with 2023 2nd Round Pick,2023-06-28,,0,,
+20230301_ARI_OTT,OTT,ARI,PICK,2024 1st Round Pick,Conditional (ECF); top-10 protected,2023-03-01,,Y,"Only if OTT reaches 2023 ECF; if protected in top-10, becomes unprotected 2025 1st.",CONDITION_NOT_MET__NOT_CONVEYED
+20230301_ARI_OTT,DRAFT,OTT,PROSPECT,Carter Yakemchuk,Drafted with 2024 1st Round Pick,2024-06-28,,0,,
+20230301_ARI_OTT,OTT,ARI,PICK,2025 1st Round Pick,Unprotected (if conditional 2024 protected),2023-03-01,,Y,"If conditional 2024 1st is protected top-10, conveys as unprotected 2025 1st.",CONDITION_NOT_MET__NOT_CONVEYED
+20230301_ARI_OTT,DRAFT,NSH,PROSPECT,Cameron Reid,Drafted with 2025 1st Round Pick,2025-06-27,,0,,
+20250306_NYI_COL,NYI,COL,PLAYER,Brock Nelson,,2025-03-06,,N,,
+20250306_NYI_COL,NYI,COL,RETAINED,Salary retention,50% retained by NYI,2025-03-06,,N,,
+20250306_NYI_COL,COL,NYI,PICK,2026 1st Round Pick,Conditional,2025-03-06,,Y,"If transferred to PHI (Sean Walker terms) OR top-10, does not convey; replaced by 2027 1st.",PENDING_FUTURE
+20250306_NYI_COL,COL,NYI,PICK,2027 1st Round Pick,Replacement,2025-03-06,,Y,Conveys if 2026 1st cannot convey (PHI transfer) or is top-10.,PENDING_FUTURE
+20250306_NYI_COL,COL,NYI,PICK,2028 3rd Round Pick,Conditional,2025-03-06,,Y,Conveys if COL wins Cup and Nelson plays >=50% playoff games.,PENDING_FUTURE
+20250305_SEA_TBL,SEA,TBL,PLAYER,Oliver Bjorkstrand,,2025-03-05,,N,,
+20250305_SEA_TBL,SEA,TBL,PLAYER,Yanni Gourde,,2025-03-05,,N,,
+20250305_SEA_TBL,DET,TBL,RETAINED,Gourde retention,25% retained by DET,2025-03-05,,N,Part of 3-team trade; retention applied to Gourde.,
+20250305_SEA_TBL,SEA,TBL,RETAINED,Gourde retention,50% retained by SEA,2025-03-05,,N,Part of 3-team trade; retention applied to Gourde.,
+20250305_SEA_TBL,TBL,SEA,PICK,2025 2nd Round Pick,Toronto pick,2025-03-05,,N,Pick is TOR's 2025 2nd per note.,DRAFT_OCCURRED_NEEDS_USED_ON_PLAYER_MAPPING
+20250305_SEA_TBL,DRAFT,PHI,PROSPECT,Matthew Gard,Drafted with 2025 2nd Round Pick,2025-06-28,,0,,
+20240630_TBL_UTA,TBL,UTA,PLAYER,Mikhail Sergachev,,2024-06-30,,N,,
+20240624_BOS_OTT,BOS,OTT,PLAYER,Linus Ullmark,,2024-06-24,,N,,
+20240619_CGY_NJD,CGY,NJD,PLAYER,Jacob Markstrom,,2024-06-19,,N,,
+20240308_SJS_VGK,SJS,VGK,PLAYER,Tomas Hertl,,2024-03-08,,N,,
+20240308_PIT_CAR,PIT,CAR,PLAYER,Jake Guentzel,,2024-03-08,,N,,
+20240308_PIT_CAR,CAR,PIT,PICK,2024 1st Round Pick,Conditional (SCF),2024-03-08,,Y,Conveys if CAR reaches 2024 Stanley Cup Final; otherwise a 2nd.,CONDITION_NOT_MET__NOT_CONVEYED
+20240308_PIT_CAR,DRAFT,CHI,PROSPECT,Marek Vanacker,Drafted with 2024 1st Round Pick,2024-06-28,,0,,
+20240308_PIT_CAR,CAR,PIT,PICK,2024 2nd Round Pick,Conditional (if no SCF),2024-03-08,,Y,Conveys if CAR does not reach 2024 Stanley Cup Final.,CONDITION_MET__CONVEYED_AND_USED
+20240308_PIT_CAR,DRAFT,PIT,PROSPECT,Harrison Brunicke,Drafted with 2024 2nd Round Pick,2024-06-29,,0,,
+20240308_PIT_CAR,CAR,PIT,PICK,2024 5th Round Pick,Conditional,2024-03-08,,Y,Conveys if CAR wins 2024 Stanley Cup.,CONDITION_NOT_MET__NOT_CONVEYED
+20240308_PIT_CAR,DRAFT,CAR,PROSPECT,Justin Poirier,Drafted with 2024 5th Round Pick,2024-06-29,,0,,
+20220318_CHI_TBL,CHI,TBL,PLAYER,Brandon Hagel,,2022-03-18,,N,,
+20220318_CHI_TBL,TBL,CHI,PICK,2023 1st Round Pick,Conditional (top-10) | Used on Oliver Moore,2022-03-18,2023-06-28,Y,"If top-10, does not convey; replaced by unprotected 2025 1st.",CONVEYED_AND_USED
+20220318_CHI_TBL,DRAFT,CHI,PROSPECT,Oliver Moore,Drafted with 2023 1st Round Pick,2023-06-28,,N,,
+20220318_CHI_TBL,TBL,CHI,PICK,2025 1st Round Pick,Unprotected (replacement),2022-03-18,,Y,Conveys if 2023 1st is top-10 and does not convey.,CONDITION_NOT_MET__NOT_CONVEYED
+20220318_CHI_TBL,DRAFT,OTT,PROSPECT,Logan Hensler,Drafted with 2025 1st Round Pick,2025-06-27,,0,,
+20220318_CHI_TBL,TBL,CHI,PICK,2024 1st Round Pick,Conditional (both top-10 scenario),2022-03-18,2024-06-28,Y,"If 2023 and 2024 1sts are top-10, then TBL conveys unprotected 2025 and 2026 1sts.",CONVEYED_AND_USED
+20220318_CHI_TBL,DRAFT,NYI,PROSPECT,Cole Eiserman,Drafted with 2024 1st Round Pick,2024-06-28,,N,,
+20220318_CHI_TBL,TBL,CHI,PICK,2026 1st Round Pick,Unprotected (both top-10 scenario),2022-03-18,,Y,Only if both 2023 and 2024 1sts are top-10 (per note).,CONDITION_NOT_MET__NOT_CONVEYED

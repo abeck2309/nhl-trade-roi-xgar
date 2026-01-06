@@ -1,0 +1,41 @@
+﻿valuation_date,trade_id,team,asset_type,asset_name,status,ev_value,ev_source,notes
+2026-01-04,20211104_BUF_VGK,MIN,PROSPECT,Riley Heidt,DRAFTED_NOT_NHL,4.2,Draft EV × prospect attrition (years since draft),Drafted with 2023 2nd Round Pick
+2026-01-04,20211104_BUF_VGK,VGK,PROSPECT,Mathieu Cataford,DRAFTED_NOT_NHL,2.45,Draft EV × prospect attrition (years since draft),Drafted with 2023 3rd Round Pick
+2026-01-04,20220722_CGY_FLA,CGY,PROSPECT,Cullen Potter,DRAFTED_NOT_NHL,10.53,Draft EV × prospect attrition (years since draft),Drafted with 2025 1st Round Pick
+2026-01-04,20220722_CGY_FLA,FLA,PROSPECT,Mads Kongsbak Klyvo,DRAFTED_NOT_NHL,1.8,Draft EV × prospect attrition (years since draft),Drafted with 2025 4th Round Pick
+2026-01-04,20251213_VAN_MIN,VAN,PICK,2026 1st Round Pick,UNUSED_PICK,11.7,Draft EV + time discount (≥2027),
+2026-01-04,20250308_CAR_DAL,CAR,PICK,2026 1st Round Pick,UNUSED_PICK,11.7,Draft EV + time discount (≥2027),"If top-10, does not convey; converts to 2027 1st (unprotected)."
+2026-01-04,20250308_CAR_DAL,CAR,PICK,2027 1st Round Pick,UNUSED_PICK,10.64,Draft EV + time discount (≥2027),Only conveys if 2026 1st is top-10 protected and does not convey.
+2026-01-04,20250308_CAR_DAL,CAR,PICK,2028 1st Round Pick,UNUSED_PICK,9.67,Draft EV + time discount (≥2027),"If top-10, does not convey; converts to 2029 1st (unprotected)."
+2026-01-04,20250308_CAR_DAL,CAR,PICK,2029 1st Round Pick,UNUSED_PICK,8.79,Draft EV + time discount (≥2027),Only conveys if 2028 1st is top-10 protected and does not convey.
+2026-01-04,20250201_VAN_NYR,PHI,PROSPECT,Jack Nesbitt,DRAFTED_NOT_NHL,10.53,Draft EV × prospect attrition (years since draft),Drafted with 2025 1st Round Pick
+2026-01-04,20250201_VAN_NYR,VAN,PICK,2026 1st Round Pick,UNUSED_PICK,11.7,Draft EV + time discount (≥2027),Conveys to VAN if 2025 1st is top-13 and does not convey; VAN transfers this pick to PIT.
+2026-01-04,20250201_VAN_NYR,PIT,PICK,2026 1st Round Pick,UNUSED_PICK,11.7,Draft EV + time discount (≥2027),"If NYR 2025 1st is top-13, VAN receives NYR 2026 1st then transfers to PIT (per note)."
+2026-01-04,20250303_CHI_FLA,FLA,PICK,2026 4th Round Pick,UNUSED_PICK,2,Draft EV + time discount (≥2027),
+2026-01-04,20250303_CHI_FLA,CHI,PICK,2026 1st Round Pick,UNUSED_PICK,11.7,Draft EV + time discount (≥2027),"If Florida does not own its 2026 1st, the conditional 1st conveys in 2027."
+2026-01-04,20250307_BOS_FLA,BOS,PICK,2027 2nd Round Pick,UNUSED_PICK,5.45,Draft EV + time discount (≥2027),Becomes 2027 or 2028 1st if FLA wins two rounds in 2025 playoffs and Marchand plays >=50% playoff games.
+2026-01-04,20250307_BOS_FLA,BOS,PICK,2027 1st Round Pick,UNUSED_PICK,10.64,Draft EV + time discount (≥2027),Only if conditions met; year may be 2027 or 2028 per note.
+2026-01-04,20250307_BOS_FLA,BOS,PICK,2028 1st Round Pick,UNUSED_PICK,9.67,Draft EV + time discount (≥2027),Only if conditions met; year may be 2027 or 2028 per note.
+2026-01-04,20230226_SJS_NJD,SJS,PROSPECT,Quentin Musty,DRAFTED_NOT_NHL,8.19,Draft EV × prospect attrition (years since draft),Drafted with 2023 1st Round Pick
+2026-01-04,20230226_SJS_NJD,NJD,PROSPECT,Anton Silayev,DRAFTED_NOT_NHL,9.36,Draft EV × prospect attrition (years since draft),Drafted with 2024 1st Round Pick
+2026-01-04,20230226_SJS_NJD,CGY,PROSPECT,Cole Reschny,DRAFTED_NOT_NHL,10.53,Draft EV × prospect attrition (years since draft),Drafted with 2025 1st Round Pick
+2026-01-04,20230226_SJS_NJD,BUF,PROSPECT,Adam Kleber,DRAFTED_NOT_NHL,4.8,Draft EV × prospect attrition (years since draft),Drafted with 2024 2nd Round Pick
+2026-01-04,20230130_VAN_NYI,DET,PROSPECT,Axel Sandin Pellikka,DRAFTED_NOT_NHL,8.19,Draft EV × prospect attrition (years since draft),Drafted with 2023 1st Round Pick
+2026-01-04,20230130_VAN_NYI,NYI,PROSPECT,Cole Eiserman,DRAFTED_NOT_NHL,9.36,Draft EV × prospect attrition (years since draft),Drafted with 2024 1st Round Pick
+2026-01-04,20220707_CHI_OTT,BOS,PROSPECT,Dean Letourneau,DRAFTED_NOT_NHL,9.36,Draft EV × prospect attrition (years since draft),Drafted with 2024 1st Round Pick
+2026-01-04,20220707_CHI_OTT,BOS,PROSPECT,James Hagens,DRAFTED_NOT_NHL,10.53,Draft EV × prospect attrition (years since draft),Drafted with 2025 1st Round Pick
+2026-01-04,20230209_STL_NYR,STL,PROSPECT,Theo Lindstein,DRAFTED_NOT_NHL,8.19,Draft EV × prospect attrition (years since draft),Drafted with 2023 1st Round Pick
+2026-01-04,20230209_STL_NYR,NYR,PROSPECT,Nathan Aspinall,DRAFTED_NOT_NHL,1.6,Draft EV × prospect attrition (years since draft),Drafted with 2024 4th Round Pick
+2026-01-04,20230209_STL_NYR,STL,PROSPECT,Adam Jecho,DRAFTED_NOT_NHL,2.8,Draft EV × prospect attrition (years since draft),Drafted with 2024 3rd Round Pick
+2026-01-04,20230301_ARI_OTT,UTA,PROSPECT,Daniil But,DRAFTED_NOT_NHL,8.19,Draft EV × prospect attrition (years since draft),Drafted with 2023 1st Round Pick
+2026-01-04,20230301_ARI_OTT,OTT,PROSPECT,Carter Yakemchuk,DRAFTED_NOT_NHL,9.36,Draft EV × prospect attrition (years since draft),Drafted with 2024 1st Round Pick
+2026-01-04,20230301_ARI_OTT,CHI,PROSPECT,Roman Kantserov,DRAFTED_NOT_NHL,4.2,Draft EV × prospect attrition (years since draft),Drafted with 2023 2nd Round Pick
+2026-01-04,20230301_ARI_OTT,NSH,PROSPECT,Cameron Reid,DRAFTED_NOT_NHL,10.53,Draft EV × prospect attrition (years since draft),Drafted with 2025 1st Round Pick
+2026-01-04,20250306_NYI_COL,NYI,PICK,2026 1st Round Pick,UNUSED_PICK,11.7,Draft EV + time discount (≥2027),"If transferred to PHI (Sean Walker terms) OR top-10, does not convey; replaced by 2027 1st."
+2026-01-04,20250306_NYI_COL,NYI,PICK,2027 1st Round Pick,UNUSED_PICK,10.64,Draft EV + time discount (≥2027),Conveys if 2026 1st cannot convey (PHI transfer) or is top-10.
+2026-01-04,20250306_NYI_COL,NYI,PICK,2028 3rd Round Pick,UNUSED_PICK,2.89,Draft EV + time discount (≥2027),Conveys if COL wins Cup and Nelson plays >=50% playoff games.
+2026-01-04,20250305_SEA_TBL,PHI,PROSPECT,Matthew Gard,DRAFTED_NOT_NHL,5.4,Draft EV × prospect attrition (years since draft),Drafted with 2025 2nd Round Pick
+2026-01-04,20240308_PIT_CAR,CHI,PROSPECT,Marek Vanacker,DRAFTED_NOT_NHL,9.36,Draft EV × prospect attrition (years since draft),Drafted with 2024 1st Round Pick
+2026-01-04,20240308_PIT_CAR,CAR,PROSPECT,Justin Poirier,DRAFTED_NOT_NHL,0.96,Draft EV × prospect attrition (years since draft),Drafted with 2024 5th Round Pick
+2026-01-04,20220318_CHI_TBL,OTT,PROSPECT,Logan Hensler,DRAFTED_NOT_NHL,10.53,Draft EV × prospect attrition (years since draft),Drafted with 2025 1st Round Pick
+2026-01-04,20220318_CHI_TBL,CHI,PICK,2026 1st Round Pick,UNUSED_PICK,11.7,Draft EV + time discount (≥2027),Only if both 2023 and 2024 1sts are top-10 (per note).
